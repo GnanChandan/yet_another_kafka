@@ -1,0 +1,90 @@
+2022-12-01 03:21:26,999 Started broker servers
+2022-12-01 03:21:31,511 Started broker servers
+2022-12-01 03:21:37,133 Started broker servers
+2022-12-01 03:21:37,134 configuring files storage info in partition
+2022-12-01 03:21:37,135 written to node0/ partition
+2022-12-01 03:21:37,135 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:37,136 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:37,136 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:37,137 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:37,138 remove_writer(7) updated handler Rd
+2022-12-01 03:21:37,138 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:38,140 written to node1/ partition
+2022-12-01 03:21:38,141 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:38,142 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:38,143 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:38,144 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:38,144 remove_writer(7) updated handler Rd
+2022-12-01 03:21:38,144 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:39,147 written to node2/ partition
+2022-12-01 03:21:39,148 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:39,148 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:39,149 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:39,150 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:39,154 remove_writer(7) updated handler Rd
+2022-12-01 03:21:39,155 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:40,158 written to node0/ partition
+2022-12-01 03:21:40,159 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:40,159 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:40,160 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:40,161 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:40,162 remove_writer(7) updated handler Rd
+2022-12-01 03:21:40,162 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:41,166 written to node1/ partition
+2022-12-01 03:21:41,167 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:41,167 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:41,168 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:41,169 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:41,170 remove_writer(7) updated handler Rd
+2022-12-01 03:21:41,170 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:42,174 written to node2/ partition
+2022-12-01 03:21:42,175 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:42,176 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:42,177 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:42,179 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:42,179 remove_writer(7) updated handler Rd
+2022-12-01 03:21:42,179 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:43,184 written to node0/ partition
+2022-12-01 03:21:43,185 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:43,185 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:43,185 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:43,186 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:43,186 remove_writer(7) updated handler Rd
+2022-12-01 03:21:43,187 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:44,190 written to node1/ partition
+2022-12-01 03:21:44,191 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:44,192 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:44,192 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:44,194 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:44,194 remove_writer(7) updated handler Rd
+2022-12-01 03:21:44,194 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:44,195 Received heartbeat frame
+2022-12-01 03:21:44,196 Recv would block on <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:44,196 Sending heartbeat frame
+2022-12-01 03:21:44,196 Sending heartbeat frame
+2022-12-01 03:21:44,197 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:44,197 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:44,197 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:44,197 call_later: added timeout <pika.adapters.select_connection._Timeout object at 0x7f22f5f485e0> with deadline=3753.85110498 and callback=<bound method HeartbeatChecker._send_heartbeat of <pika.heartbeat.HeartbeatChecker object at 0x7f22f5f495a0>>; now=3723.85110498; delay=30.0
+2022-12-01 03:21:44,198 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:44,199 remove_writer(7) updated handler Rd
+2022-12-01 03:21:44,199 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:45,202 written to node2/ partition
+2022-12-01 03:21:45,203 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:45,203 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:45,203 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:45,205 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:45,205 remove_writer(7) updated handler Rd
+2022-12-01 03:21:45,205 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:46,207 written to node0/ partition
+2022-12-01 03:21:46,208 SelectorIOServicesAdapter.set_writer(7, <bound method _AsyncPlaintextTransport._on_socket_writable of <pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x7f22f5f489d0>>)
+2022-12-01 03:21:46,209 set_writer(7, _) updated handler RdWr
+2022-12-01 03:21:46,209 Turned on writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:46,214 SelectorIOServicesAdapter.remove_writer(7)
+2022-12-01 03:21:46,214 remove_writer(7) updated handler Rd
+2022-12-01 03:21:46,215 Turned off writability watcher: <socket.socket fd=7, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=6, laddr=('127.0.0.1', 51068), raddr=('127.0.0.1', 5672)>
+2022-12-01 03:21:47,220 setting up replicas file
+2022-12-01 03:21:47,223 copied Food0 from node0/ to node1/
+2022-12-01 03:21:47,227 copied Food1 from node1/ to node2/
+2022-12-01 03:21:47,233 copied Food2 from node2/ to node0/
+2022-12-01 03:21:47,238 Shutting down
